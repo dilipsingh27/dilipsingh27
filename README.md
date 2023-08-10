@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dilip Singh</h1>
+<h1 align="center">I'm Dilip Singh</h1>
 <h3 align="center">A Passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilipsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="dilipsingh27" /> </p>
